@@ -9,7 +9,7 @@ function Child({getShowModal,showModal}){
 
             {showModal && <div>
                 <h3>Modal Content</h3>
-                <h4>This is the Modal Content</h4>
+                <p>This is the Modal Content</p>
             </div>}
         </div>
     )
